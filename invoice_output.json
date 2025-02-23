@@ -1,0 +1,830 @@
+[
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [],
+        "date": "44 20 7123"
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [],
+        "date": "20-00-00"
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-7338",
+                "quantity": "18",
+                "price": "18.08",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-2918",
+                "quantity": "25",
+                "price": "456.78",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-3013",
+                "quantity": "56",
+                "price": "817,91",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": "09/02/2025"
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-6726",
+                "quantity": "42",
+                "price": "52.86",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8618",
+                "quantity": "65",
+                "price": "175.38",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-7378",
+                "quantity": "18",
+                "price": "121.70",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8373",
+                "quantity": "19",
+                "price": "902.24",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-5464",
+                "quantity": "4",
+                "price": "860.40",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-1497",
+                "quantity": "95",
+                "price": "956.79",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8247",
+                "quantity": "20",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-7611",
+                "quantity": "8",
+                "price": "319.72",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-9400",
+                "quantity": "93",
+                "price": "743.48",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-2020",
+                "quantity": "47",
+                "price": "38.06",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-9365",
+                "quantity": "43",
+                "price": "17.71",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-1141",
+                "quantity": "28",
+                "price": "808.81",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8328",
+                "quantity": "68",
+                "price": "178.71",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-1824",
+                "quantity": "84",
+                "price": "561,96",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-4863",
+                "quantity": "65",
+                "price": "833.55",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8536",
+                "quantity": "24",
+                "price": "765,07",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-1324",
+                "quantity": "19",
+                "price": "357.55",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-6072",
+                "quantity": "7",
+                "price": "25.00",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-6566",
+                "quantity": "25",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-4120",
+                "quantity": "90",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-5444",
+                "quantity": "48",
+                "price": "602.336",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-9603",
+                "quantity": "36",
+                "price": "746.04",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8637",
+                "quantity": "38",
+                "price": "998.83",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-9138",
+                "quantity": "86",
+                "price": "625.72",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8909",
+                "quantity": "23",
+                "price": "295.58",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-4919",
+                "quantity": "92",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-5819",
+                "quantity": "92",
+                "price": "388.45",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-7893",
+                "quantity": "39",
+                "price": "709.53",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8864",
+                "quantity": "48",
+                "price": "286.33",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8715",
+                "quantity": "21",
+                "price": "130.93",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8281",
+                "quantity": "91",
+                "price": "145,64",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-7836",
+                "quantity": "58",
+                "price": "118.54",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-6303",
+                "quantity": "60",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-3933",
+                "quantity": "10",
+                "price": "854.82",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-8621",
+                "quantity": "32",
+                "price": "190.74",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-7202",
+                "quantity": "73",
+                "price": "172.77",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-3558",
+                "quantity": "17",
+                "price": "236.79",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-9287",
+                "quantity": "33",
+                "price": "784.54",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-7415",
+                "quantity": "25",
+                "price": "857.03",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-8662",
+                "quantity": "21",
+                "price": "579.62",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-2303",
+                "quantity": "96",
+                "price": "384.89",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-3325",
+                "quantity": "27",
+                "price": "159.92",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": "29 NWBK 6016"
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-5976",
+                "quantity": "39",
+                "price": "8234.81",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-8211",
+                "quantity": "32",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-9055",
+                "quantity": "28",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-5064",
+                "quantity": "34",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-632",
+                "quantity": "29",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-8572",
+                "quantity": "4",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": "44 20 7123"
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-8419",
+                "quantity": "7",
+                "price": "8441.63",
+                "total": "82918.61",
+                "po_number": "PO-360206"
+            },
+            {
+                "product": "PRD-2738",
+                "quantity": "2",
+                "price": "5324.29",
+                "total": "58",
+                "po_number": "PO-360206"
+            },
+            {
+                "product": "PRD-1771",
+                "quantity": "15",
+                "price": "8336.13",
+                "total": "",
+                "po_number": "PO-360206"
+            },
+            {
+                "product": "PRD-1238",
+                "quantity": "9",
+                "price": "",
+                "total": "",
+                "po_number": "PO-360206"
+            },
+            {
+                "product": "PRD-2225",
+                "quantity": "24",
+                "price": "",
+                "total": "",
+                "po_number": "PO-360206"
+            },
+            {
+                "product": "PRD-1372",
+                "quantity": "19",
+                "price": "",
+                "total": "",
+                "po_number": "PO-360206"
+            },
+            {
+                "product": "PRD-6208",
+                "quantity": "3",
+                "price": "",
+                "total": "",
+                "po_number": "PO-620097"
+            },
+            {
+                "product": "PRD-5513",
+                "quantity": "45",
+                "price": "",
+                "total": "",
+                "po_number": "PO-620097"
+            },
+            {
+                "product": "PRD-458",
+                "quantity": "39",
+                "price": "",
+                "total": "",
+                "po_number": "PO-620097"
+            },
+            {
+                "product": "PRD-7942",
+                "quantity": "19",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            },
+            {
+                "product": "PRD-9459",
+                "quantity": "16",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-8913",
+                "quantity": "22",
+                "price": "",
+                "total": "59204.6",
+                "po_number": "PO-620097"
+            },
+            {
+                "product": "PRD-6575",
+                "quantity": "9",
+                "price": "",
+                "total": "",
+                "po_number": "PO-620097"
+            },
+            {
+                "product": "PRD-5309",
+                "quantity": "41",
+                "price": "",
+                "total": "",
+                "po_number": "PO-620097"
+            },
+            {
+                "product": "PRD-2463",
+                "quantity": "48",
+                "price": "",
+                "total": "",
+                "po_number": "PO-620097"
+            },
+            {
+                "product": "PRD-4967",
+                "quantity": "19",
+                "price": "",
+                "total": "",
+                "po_number": "PO-756014"
+            },
+            {
+                "product": "PRD-1769",
+                "quantity": "20",
+                "price": "",
+                "total": "",
+                "po_number": "PO-756014"
+            },
+            {
+                "product": "PRD-2649",
+                "quantity": "14",
+                "price": "",
+                "total": "",
+                "po_number": "PO-756014"
+            },
+            {
+                "product": "PRD-4113",
+                "quantity": "19",
+                "price": "",
+                "total": "",
+                "po_number": "PO-756014"
+            },
+            {
+                "product": "PRD-4823",
+                "quantity": "26",
+                "price": "",
+                "total": "",
+                "po_number": "PO-756014"
+            },
+            {
+                "product": "PRD-8435",
+                "quantity": "41",
+                "price": "",
+                "total": "",
+                "po_number": "PO-756014"
+            },
+            {
+                "product": "PRD-9612",
+                "quantity": "23",
+                "price": "",
+                "total": "",
+                "po_number": "PO-756014"
+            },
+            {
+                "product": "PRD-3310",
+                "quantity": "3",
+                "price": "",
+                "total": "",
+                "po_number": "PO-842742"
+            },
+            {
+                "product": "PRD-7041",
+                "quantity": "47",
+                "price": "",
+                "total": "",
+                "po_number": "PO-842742"
+            },
+            {
+                "product": "PRD-1167",
+                "quantity": "3",
+                "price": "",
+                "total": "",
+                "po_number": "PO-842742"
+            },
+            {
+                "product": "PRD-1991",
+                "quantity": "30",
+                "price": "",
+                "total": "",
+                "po_number": "PO-842742"
+            },
+            {
+                "product": "PRD-7450",
+                "quantity": "46",
+                "price": "",
+                "total": "",
+                "po_number": "PO-842742"
+            },
+            {
+                "product": "PRD-8062",
+                "quantity": "10",
+                "price": "",
+                "total": "",
+                "po_number": "PO-842742"
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-3574",
+                "quantity": "49",
+                "price": "8365.4",
+                "total": "55338.96",
+                "po_number": "PO-842742"
+            },
+            {
+                "product": "PRD-3154",
+                "quantity": "2",
+                "price": "5395.16",
+                "total": "8429.35",
+                "po_number": "PO-362820"
+            },
+            {
+                "product": "PRD-5950",
+                "quantity": "33",
+                "price": "5349.07",
+                "total": "",
+                "po_number": "PO-362820"
+            },
+            {
+                "product": "PRD-8988",
+                "quantity": "48",
+                "price": "8348.2",
+                "total": "",
+                "po_number": "PO-362820"
+            },
+            {
+                "product": "PRD-9909",
+                "quantity": "13",
+                "price": "5268.37",
+                "total": "",
+                "po_number": "PO-362820"
+            },
+            {
+                "product": "PRD-4267",
+                "quantity": "48",
+                "price": "8242.68",
+                "total": "",
+                "po_number": "PO-362820"
+            },
+            {
+                "product": "PRD-7856",
+                "quantity": "5",
+                "price": "5281.1",
+                "total": "",
+                "po_number": "PO-362820"
+            },
+            {
+                "product": "PRD-4683",
+                "quantity": "2",
+                "price": "558.92",
+                "total": "",
+                "po_number": "PO-362820"
+            },
+            {
+                "product": "PRD-7453",
+                "quantity": "22",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-9473",
+                "quantity": "28",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-7092",
+                "quantity": "13",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-5621",
+                "quantity": "1",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-2818",
+                "quantity": "36",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-3978",
+                "quantity": "49",
+                "price": "",
+                "total": "",
+                "po_number": "PO-526365"
+            },
+            {
+                "product": "PRD-2599",
+                "quantity": "37",
+                "price": "",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": ""
+    },
+    {
+        "company": "",
+        "invoice_date": "",
+        "invoice_number": "",
+        "customer": "",
+        "address": "",
+        "tax_id": "",
+        "items": [
+            {
+                "product": "PRD-7695",
+                "quantity": "31",
+                "price": "8431",
+                "total": "",
+                "po_number": ""
+            }
+        ],
+        "date": "01 Total 8133"
+    }
+]
